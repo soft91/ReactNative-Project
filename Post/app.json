@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "편의점 택배 요금 계산기",
+    "slug": "Post",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ic_launcher.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "whatever.gs25"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
